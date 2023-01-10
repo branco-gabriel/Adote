@@ -1,0 +1,2 @@
+# adote
+ Django project
